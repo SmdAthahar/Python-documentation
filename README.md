@@ -61,9 +61,3 @@ Each section includes:
 - Applying Functions  
 
 ---
-
-## 🚀 **How to Use**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Python-OOP-NumPy-Pandas-Notes.git
-
